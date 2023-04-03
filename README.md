@@ -1,2 +1,2 @@
-# sample implementation of the N-beats model
-sample projects and codes
+# Sample implementation of the N-beats model
+Sample projects and codes
